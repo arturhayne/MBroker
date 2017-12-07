@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:padding="6dip" >
+    
+    <TextView android:id="@+id/itemId" 
+		android:layout_width="50dp"
+		android:layout_height="fill_parent" 
+		android:layout_alignParentLeft="true" 
+		android:layout_centerVertical="true" 
+		android:layout_marginLeft="5dp"
+		android:textSize="18sp" 
+		android:textStyle="bold|italic"
+		android:textColor="#fccc" 
+		android:visibility="invisible"
+		android:focusable="false" />
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/secondLine"
+        android:layout_width="fill_parent"
+        android:layout_height="26dip"
+        android:layout_alignLeft="@+id/cpDescricao"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:ellipsize="marquee"
+        android:singleLine="true"
+        android:text="Description"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/cpDescricao"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/itemId"
+        android:layout_toRightOf="@+id/itemId"
+        android:gravity="center_vertical"
+        android:text="Example application"
+        android:textSize="16sp" />
+
+</RelativeLayout>

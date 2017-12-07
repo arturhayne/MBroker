@@ -1,0 +1,30 @@
+<resources>
+
+    <style name="AppTheme2" parent="android:Theme.Light" />
+    
+    <style name="ThemeSelector" parent="android:Theme.Light">
+        <item name="android:windowTitleBackgroundStyle">@style/WindowTitleBackground</item>        
+    </style>
+    
+    <!-- <style name="ThemeSelector" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/ActionBar</item>    
+    </style>   -->
+          
+     
+
+
+
+    
+     
+    
+
+
+
+ 
+
+
+
+    
+    
+    
+</resources>

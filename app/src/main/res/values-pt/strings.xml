@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Portugês -->
+    <string name="app_name">MBroker</string>
+    <string name="title_section3">Android Version</string>
+    <string name="title_section2">Imóveis</string>
+    <string name="title_section1">Clientes</string>
+    
+    <!-- Botões -->
+    <string name="addClientBt">Adicionar Cliente</string>
+    <string name="addHomeBt">Adicionar Imóvel</string>
+    <string name="addClient">Adicione um Cliente</string> 
+    <string name="addHome">Adicione um Imóvel</string>   
+    <string name="save">Salvar</string>  
+    <string name="delete">Deletar</string> 
+    <string name="edit">Editar</string> 
+    
+    <string name="gpsConfig">Configurações de GPS</string>
+    <string name="gpsDisable">O GPS não está habilitado. Deseja configura-lo?</string>
+    <string name="searching">Procurando</string>
+    <string name="searchingCoo">Procurando coordenadas</string>
+    
+    
+    <string name="cancel">Cancelar</string>
+    <string name="sendEmail">Enviar E-mail?</string>
+	<string name="call">Ligar</string>
+    <string name="to">Para:</string>      
+    <string name="buy">Comprar</string>      
+    <string name="rent">Alugar</string> 
+    <string name="sell">Venda</string>
+    <string name="sale">Vender</string>
+    <string name="rentA">Aluguel</string>
+    <string name="stName">Nome</string>
+    <string name="stPhone">Telefone</string>
+    <string name="stEmail">E-mail</string>
+    <string name="stSolicit">Solicitação</string>
+    <string name="address">Endereço</string>
+    <string name="owner">Proprietário</string>
+    <string name="rooms">Quartos:</string>
+    <string name="house">Casa</string>
+    <string name="apt">Apt.</string>
+     <string name="select">Selecionar</string>
+     <string name="imageSelected">Imagem Selecionada</string>
+     <string name="deleteRecord">Apagar Registro?</string>
+    <string name="deleteHomeMsg">Apagar registro de Imóvel?</string>
+    <string name="deleteClientMsg">Apagar Registro de Cliente?</string>
+    <string name="description">Descrição</string>
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MBroker</string>
+    <string name="add_home">Adicionar Imóvel</string>
+    <string name="add_client">Adicionar_Cliente</string>
+    <string name="title_activity_testee"></string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_client"></string>
+    <string name="title_activity_add_home"></string>
+    <string name="title_activity_client"></string>
+    <string name="title_activity_home"></string>
+
+</resources>

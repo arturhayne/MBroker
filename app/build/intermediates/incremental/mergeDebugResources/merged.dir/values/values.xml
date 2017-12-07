@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pressed_orangetheme">#CCFFBB33</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="addClient">Add a Client</string>
+    <string name="addClientBt">Add Client</string>
+    <string name="addHome">Add a Home</string>
+    <string name="addHomeBt">Add Home</string>
+    <string name="add_client">Adicionar_Cliente</string>
+    <string name="add_home">Adicionar Imóvel</string>
+    <string name="address">Address</string>
+    <string name="app_name">MBroker</string>
+    <string name="apt">Apt.</string>
+    <string name="buy">Buy</string>
+    <string name="call">Call</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="deleteClientMsg">Delete client record?</string>
+    <string name="deleteHomeMsg">Delete home record?</string>
+    <string name="deleteRecord">Delete Record?</string>
+    <string name="description">Description</string>
+    <string name="edit">Edit</string>
+    <string name="gpsConfig">GPS Settings</string>
+    <string name="gpsDisable">GPS disabled. Turn it on?</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="house">House</string>
+    <string name="imageSelected">Image Selected</string>
+    <string name="menu_settings">Settings</string>
+    <string name="owner">Owner</string>
+    <string name="rent">Rent</string>
+    <string name="rentA">Rent</string>
+    <string name="rooms">Rooms:</string>
+    <string name="sale">Sale</string>
+    <string name="save">Save</string>
+    <string name="searching">Searching</string>
+    <string name="searchingCoo">Getting coordinates</string>
+    <string name="select">Select</string>
+    <string name="sell">Sell</string>
+    <string name="sendEmail">Send E-mail?</string>
+    <string name="stEmail">E-mail</string>
+    <string name="stName">Name</string>
+    <string name="stPhone">Phone</string>
+    <string name="stSolicit">Solicitation</string>
+    <string name="title_activity_add_client"/>
+    <string name="title_activity_add_home"/>
+    <string name="title_activity_client"/>
+    <string name="title_activity_home"/>
+    <string name="title_activity_main">MBroker</string>
+    <string name="title_activity_testee"/>
+    <string name="title_section1">Clients</string>
+    <string name="title_section2">Homes</string>
+    <string name="title_section3">Android Version</string>
+    <string name="to">To:</string>
+    <style name="ActionBar.Solid.Orangetheme" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:background">@drawable/ab_solid_orangetheme</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_orangetheme</item>
+        <item name="android:backgroundSplit">@drawable/ab_bottom_solid_orangetheme</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Orangetheme</item>
+    </style>
+    <style name="ActionBar.Transparent.Orangetheme" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_orangetheme</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Orangetheme</item>
+    </style>
+    <style name="ActionBarTabStyle.Orangetheme" parent="@android:style/Widget.Holo.Light.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_orangetheme</item>
+    </style>
+    <style name="ActionButton.CloseMode.Orangetheme" parent="@android:style/Widget.Holo.Light.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_orangetheme</item>
+    </style>
+    <style name="AppTheme2" parent="android:Theme.Light"/>
+    <style name="DropDownListView.Orangetheme" parent="@android:style/Widget.Holo.Light.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_orangetheme</item>
+    </style>
+    <style name="DropDownNav.Orangetheme" parent="@android:style/Widget.Holo.Light.Spinner">
+        <item name="android:background">@drawable/spinner_background_ab_orangetheme</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_orangetheme</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_orangetheme</item>
+    </style>
+    <style name="PopupMenu.Orangetheme" parent="@android:style/Widget.Holo.Light.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_orangetheme</item>	
+    </style>
+    <style name="ProgressBar.Orangetheme" parent="@android:style/Widget.Holo.Light.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_orangetheme</item>
+    </style>
+    <style name="Theme.Orangetheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_orangetheme</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Orangetheme</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Orangetheme</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Orangetheme</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Orangetheme</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Orangetheme</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_orangetheme</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_orangetheme</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Orangetheme</item>
+        
+        
+    </style>
+    <style name="Theme.Orangetheme.Widget" parent="@android:style/Theme.Holo">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Orangetheme</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Orangetheme</item>
+    </style>
+    <style name="ThemeSelector" parent="android:Theme.Light">
+        <item name="android:windowTitleBackgroundStyle">@style/WindowTitleBackground</item>        
+    </style>
+</resources>

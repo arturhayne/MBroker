@@ -1,0 +1,714 @@
+[
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_selected_focused_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_focused_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_unselected_focused_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_focused_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_banhopedro1.jpg.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\banhopedro1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gradient_bg_hover.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_disabled_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_disabled_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkmark.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\checkmark.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progress_secondary_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\progress_secondary_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_addclient.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xxhdpi\\addclient.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_transparent_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\ab_transparent_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_list_focused_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\list_focused_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected_pressed_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_pressed_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_focused_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_focused_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gps.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\gps.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_default_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_default_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_default_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_default_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_focused_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_focused_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_adduser.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xxhdpi\\adduser.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_texture_tile_orangetheme.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\ab_texture_tile_orangetheme.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_pressed_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_pressed_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_addhomeold2.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\addhomeold2.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_focused_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\list_focused_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mbroker.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\ic_mbroker.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sold.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\sold.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\menu_home.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_cab_done_default_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_default_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_background_ab_orangetheme.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable\\spinner_background_ab_orangetheme.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_addhomeon.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\addhomeon.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_list_item.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\layout\\main_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_pressed_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_pressed_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_default_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_default_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_heart.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_border.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable\\login_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_addhomeold2.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xxhdpi\\addhomeold2.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gradient_bg.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_primary_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\progress_primary_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\anim_hyperspace_jump.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\anim\\hyperspace_jump.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_stacked_solid_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\ab_stacked_solid_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator_ab_orangetheme.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable\\tab_indicator_ab_orangetheme.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_sold.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable\\bt_sold.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_adduseron.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\adduseron.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_home.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\layout\\activity_add_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\menu_add_home.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\menu\\add_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_add.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\home_add.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_focused_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_focused_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_stacked_solid_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\ab_stacked_solid_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_solid_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\ab_solid_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_secondary_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\progress_secondary_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_focused_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_focused_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_disabled_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_disabled_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_banhopedro1.jpg.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xxhdpi\\banhopedro1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_play.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_cab_done_pressed_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_pressed_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_unselected_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image_bg.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\image_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stub.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable\\stub.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadeout.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_dropdown_panel_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\menu_dropdown_panel_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_addhome.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable\\bt_addhome.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_no_image.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\no_image.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_disabled_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_disabled_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_selector.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_client.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\layout\\activity_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_adduser.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\adduser.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadein.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_soldon.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\soldon.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progress_primary_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\progress_primary_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_cab_done_orangetheme.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable\\btn_cab_done_orangetheme.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_bottom_solid_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\ab_bottom_solid_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_addhomeonold.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\addhomeonold.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_solid_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\ab_solid_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_dropdown_panel_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\menu_dropdown_panel_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\menu_add_client.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\menu\\add_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_pressed_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_pressed_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_focused_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_focused_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progress_bg_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\progress_bg_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_pressed_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_pressed_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_adduser.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\adduser.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected_focused_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_focused_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_addhomeold2.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\addhomeold2.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_list_focused_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\list_focused_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_default_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_default_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\layout_client_list_item.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\layout\\client_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_client.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\layout\\activity_add_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cab_background_bottom_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\cab_background_bottom_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_pressed_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_pressed_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_transparent_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\ab_transparent_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cab_background_top_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\cab_background_top_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_add.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\user_add.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pressed_background_orangetheme.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable\\pressed_background_orangetheme.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_primary_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\progress_primary_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_selected_pressed_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_pressed_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_addhomeold2.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\addhomeold2.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_adduseron.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\adduseron.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_gallery.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\layout\\main_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_focused_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_focused_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_fragment.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\layout\\list_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cab_background_top_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\cab_background_top_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_dropdown_panel_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\menu_dropdown_panel_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_unselected_pressed_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_pressed_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_solid_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\ab_solid_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\layout_galleryitem.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\layout\\galleryitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_adduseron.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xxhdpi\\adduseron.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_add1.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\home_add1.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ab_background_textured_orangetheme.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable\\ab_background_textured_orangetheme.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rihanna.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\rihanna.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_save.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_banhopedro1.jpg.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\banhopedro1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_save.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable\\bt_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selectable_background_orangetheme.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable\\selectable_background_orangetheme.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_horizontal_orangetheme.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable\\progress_horizontal_orangetheme.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mbroker.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\ic_mbroker.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mbroker.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xxhdpi\\mbroker.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mbroker.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\mbroker.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_addhomeonold.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\addhomeonold.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gpson.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\gpson.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gpson.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\gpson.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_mbroker.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\ic_mbroker.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_addclient.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\addclient.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_default_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_default_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_gps.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable\\bt_gps.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gps.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\gps.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cab_background_top_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\cab_background_top_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_cab_done_focused_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_focused_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_selected_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_redbk.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable\\bt_redbk.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_transparent_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\ab_transparent_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_pressed_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_pressed_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mbroker.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xxhdpi\\ic_mbroker.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mbroker.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\mbroker.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_banhopedro1.jpg.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\banhopedro1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_adduser.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable\\bt_adduser.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_pressed_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_pressed_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_addhome2.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\addhome2.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_adduser.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\adduser.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_pressed_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_pressed_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cab_background_bottom_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\cab_background_bottom_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_focused_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_focused_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_focused_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_focused_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_adduseron.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\adduseron.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_addhomeonold.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\addhomeonold.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_bg_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\progress_bg_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mbroker.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\mbroker.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_secondary_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\progress_secondary_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_stacked_solid_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\ab_stacked_solid_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_bottom_solid_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\ab_bottom_solid_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_addhomeonold.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xxhdpi\\addhomeonold.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_texture_tile_orangetheme.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\ab_texture_tile_orangetheme.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_texture_tile_orangetheme.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\ab_texture_tile_orangetheme.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_saveon.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\saveon.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_bottom_solid_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-xhdpi\\ab_bottom_solid_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\menu_client.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\menu\\client.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_addclient.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\addclient.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_bg_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-hdpi\\progress_bg_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_single.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\layout\\list_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cab_background_bottom_orangetheme.9.png.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\drawable-mdpi\\cab_background_bottom_orangetheme.9.png"
+    },
+    {
+        "merged": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\artur.oliveira\\AndroidStudioProjects\\mbroker\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    }
+]

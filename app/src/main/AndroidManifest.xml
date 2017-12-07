@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.htech.mbroker"
+    android:installLocation="auto"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+
+    <permission android:name="android.permission.INTERNET" >
+    </permission>
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/ic_mbroker"
+        android:label="@string/app_name"
+        android:logo="@drawable/mbroker"
+        android:screenOrientation="sensorPortrait"
+        android:theme="@style/Theme.Orangetheme" >
+        <activity
+            android:name="br.com.htech.mbroker.MainActivity"
+            android:label="@string/title_activity_main"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- created by arturhayne at 2013-12-17 14:52:28 -->
+        <activity android:name="br.com.htech.mbroker.AddHome2" />
+        <!-- created by arturhayne at 2013-12-17 14:52:49 -->
+        <activity android:name="br.com.htech.mbroker.AddClient2" />
+        <activity
+            android:name="br.com.htech.mbroker.AddClient"
+            android:label="@string/title_activity_add_client"
+            android:parentActivityName="br.com.htech.mbroker.MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sunil.actionbartab.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.htech.mbroker.AddHome"
+            android:label="@string/title_activity_add_home"
+            android:parentActivityName="br.com.htech.mbroker.MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sunil.actionbartab.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.htech.mbroker.AndroidCustomGalleryActivity"
+            android:label="@string/title_activity_add_home"
+            android:parentActivityName="br.com.htech.mbroker.AddHome"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sunil.actionbartab.AddHome" />
+        </activity>
+        <activity
+            android:name="br.com.htech.mbroker.ClientActivity"
+            android:label="@string/title_activity_client"
+            android:parentActivityName="br.com.htech.mbroker.MainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sunil.actionbartab.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.htech.mbroker.HomeActivity"
+            android:label="@string/title_activity_home"
+            android:parentActivityName="br.com.htech.mbroker.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sunil.actionbartab.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>
